@@ -1,0 +1,6 @@
+developer
+front-end
+gallows
+back-end
+irb
+computer
